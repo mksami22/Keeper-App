@@ -11,7 +11,7 @@ We can add a note by clicking on the add button or we ca just delete an added no
 - CSS3
 - JavaScript
 ## Installation:
-After cloning the file just cd over to the location in your terminal, perform the following:
+After cloning the file just cd over to the location in your terminal and perform the following:
 ```
 npm install
 npm start
